@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clarence Cheong"
+title                    : "Clarence"
 title_separator          : "-"
 name                     : &name "Clarence Cheong"
-description              : &description "Research Scholar at Multimedia University, Cyberjaya, MY"
+description              : &description "personal description"
 url                      : https://brighttux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brighttux.github.io"
+repository               : "brighttux/brighttux.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -70,21 +70,23 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-  tracking_id          :
+    tracking_id          :
+
 
 # Site Author
 author:
   name             : "Clarence Cheong"
   avatar           : "profile.png"
-  bio              : "Research Scholar at Multimedia University in Computer Vision"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Cyberjaya, MY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en"
-  email            : "clarence_han[at]hotmail[dot]com
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/clarence-cheong/"
-  orcid            : 
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -304,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
