@@ -36,7 +36,7 @@ Work experience
   * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
   
 * Sept 2012 - Sept 2016: Application Management Service Delivery
-  * MHewlett Packard Enterprise, MY
+  * Hewlett Packard Enterprise, MY
   * Responsibilities: 
     * Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
   * Supervisor: Professor Hub
