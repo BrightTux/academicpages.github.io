@@ -27,8 +27,7 @@ Work experience
   
 * Summer 2018: Freelance Project
   * Project: Retail Store Analytics using Video Feed 
-  * Responsibilities:
-    * Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed.
+  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed.
 
 * Oct 2016 - Current: Research Scholar
   * Multimedia University, MY
@@ -37,8 +36,7 @@ Work experience
   
 * Sept 2012 - Sept 2016: Application Management Service Delivery
   * Hewlett Packard Enterprise, MY
-  * Responsibilities: 
-    * Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
+  * Responsibilities: Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
   * Supervisor: Professor Hub
 
 * Aug 2010 - Jan 2012: Research Assistant
@@ -49,12 +47,10 @@ Work experience
 Skills
 ======
 * OpenCV
-* Mainframe
-  * COBOL
-  * JCL
-  * CA-7
-  * z/OS
 * C++, JavaScript, Python, SQL, PHP, VB, HTML, MATLAB, PowerShell, Unix Shell Scripting
+* Mainframe
+  * COBOL, JCL, CA-7, z/OS
+
 
 
 Publications
