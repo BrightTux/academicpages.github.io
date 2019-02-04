@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clarence"
 title_separator          : "-"
 name                     : &name "Clarence Cheong"
-description              : &description "personal description"
+description              : &description "Research Scholar (Computer Vision), Multimedia University"
 url                      : https://brighttux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brighttux/brighttux.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Clarence Cheong"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "clarence.png"
+  bio              : "Research Scholar (Computer Vision), Multimedia University"
   location         : "Cyberjaya, MY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en"
+  email            : "clarence_han[at]hotmail[dot]com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
