@@ -23,19 +23,19 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research Intern
-  * National Chung Cheng University, TW
-  * Project: Vehicle Trajectory Classification using ML
-  * Supervisor: [Professor Wen-Nung, Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/)
-  
-* Summer 2018: Freelance Project
-  * Project: Retail Store Analytics using Video Feed 
-  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed.
-
 * Oct 2016 - Current: Research Scholar
   * Multimedia University, MY
   * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities
   * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
+  
+* Nov 2018 - Feb 2019: Freelance Project
+  * Project: Retail Store Analytics using Video Feed 
+  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed.
+
+* Summer 2018: Research Intern
+  * National Chung Cheng University, TW
+  * Project: Vehicle Trajectory Classification using ML
+  * Supervisor: [Professor Wen-Nung, Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/)
   
 * Sept 2012 - Sept 2016: Application Management Service Delivery
   * Hewlett Packard Enterprise, MY
