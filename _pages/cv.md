@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<a style="line-height: 1.5;" href=""><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
+<h1 class="western" align="center"><b>Clarence Cheong</b></h1>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="http://www.brighttux.github.io/">http://www.brighttux.github.io</a> | <a href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a></span></p>
+
+
 Education
 ======
 
