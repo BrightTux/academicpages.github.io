@@ -77,11 +77,11 @@ analytics:
   google:
   tracking_id          :
 
-#fakeline testing
+
 # Site Author
 author:
   name             : "Clarence Cheong"
-  avatar           : "clarence.png"
+  avatar           : "profile.png"
   bio              : "Research Scholar at Multimedia University in Computer Vision"
   location         : "Cyberjaya, MY"
   employer         :
