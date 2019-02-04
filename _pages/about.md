@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Clarence, currently doing my masters as a research scholar in the computer vision field. Prior to this, I was working in the banking industry specializing in service delivery as an application service developer while supporting the applications for 4 years with Hewlett Packard Enterprise. However, my interest lies in computer vision, automation, and creating tools. Currently I'm residing in Cyberjaya, Selangor, Malaysia.
+Hi there!
+======
+
+I'm Clarence, currently doing my masters as a research scholar in the computer vision field. Prior to this, I was working in the banking industry specializing in service delivery as an application service developer while supporting the applications for 4 years with Hewlett Packard Enterprise. However, my interest lies in computer vision, automation, and creating tools. Currently I'm residing in Cyberjaya, Selangor, Malaysia.
