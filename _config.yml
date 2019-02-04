@@ -270,6 +270,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+minimal_mistakes_skin: "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 
 # Archives
 #  Type
