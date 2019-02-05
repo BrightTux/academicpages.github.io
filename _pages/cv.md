@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<script src="xepOnline.jqPlugin.js"></script>
+<script src="https://raw.githubusercontent.com/BrightTux/brighttux.github.io/master/assets/js/jqPlugin.js"></script>
  <a href="#" onclick="return xepOnline.Formatter.Format('Usage',{render:'download'});">
         download page
     </a>
