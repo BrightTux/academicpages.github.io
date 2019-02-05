@@ -8,12 +8,14 @@ tags:
   - thingsilearntoday
 ---
 
-SSH With GUI? Solutions for both Linux and Windows users
-======
+
 
 Have you ever been in a situation where all you've got is an SSH connection to a remote client, and the access to terminal by itself isn't gonna cut? 
 
 well.. i have.. and that's the basis of this post.
+
+SSH With GUI? Solutions for both Linux and Windows users
+======
 
 So, recently i took up a freelance project where the goal was to extract customer's information from video feed. As the title implies, i had a SSH connection to a Rasp Pi device, i could access and run the extraction programs. However, when asked about troubleshooting - if the client was able to connect to the Rasp Pi and view what was going on, while i knew it was possible, i wasn't sure how to go about it.
 
