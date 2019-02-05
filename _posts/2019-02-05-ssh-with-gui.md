@@ -12,7 +12,7 @@ tags:
 
 Have you ever been in a situation where all you've got is an SSH connection to a remote client, and the access to terminal by itself isn't gonna cut? 
 
-well.. i have.. and that's the basis of this post.
+well.. i have.. and that's the basis of this post. Before we head deeper into the issue at hand, I would like to wish everyone who's celebrating a Blessed Chinese New Year! May this year be ever prosperous, joyful, loving and peaceful! 
 
 SSH With GUI? Solutions for both Linux and Windows users
 ======
