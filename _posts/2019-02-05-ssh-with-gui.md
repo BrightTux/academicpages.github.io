@@ -56,5 +56,11 @@ sudo service ssh restart
 * Windows
   * To enable X forwarding on Windows OS, you would first need to install some supporting programs that enables X server. Some notable X servers are Cygwin/X and Xming. In my case, i installed Xming on my windows machine, load up PuTTY, and "checked" the Enable X11 forwarding button. 
 
-![x11 forwarding PuTTY](https://i.stack.imgur.com/B7r4t.png "PuTTY X11 forwarding")
+  * ![x11 forwarding PuTTY](https://i.stack.imgur.com/B7r4t.png "PuTTY X11 forwarding")
+
+* Mac
+  * Same as linux machines, using feed in `-X` when connecting using SSH 
+
+Credit:
+https://superuser.com/questions/119792/how-to-use-x11-forwarding-with-putty?fbclid=IwAR0uFuesE0pAUiFvo3oKdo0v3nMrFbtnkifM6ncIMZwmGvBgYTvFjmpdoQo
 
