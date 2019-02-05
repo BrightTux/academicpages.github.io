@@ -5,7 +5,7 @@ permalink: /posts/2019/02/ssh-with-gui/
 tags:
   - ssh
   - x forwarding
-  - thingsilearntoday
+  - todayilearnthat
 ---
 
 
