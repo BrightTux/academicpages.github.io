@@ -73,9 +73,9 @@ Publications
 Awards
 ======
 * 2018
-  * International Invention, Innocation & Technology Exhibition (ITEX), Malaysia - Silver Medalist (ICT & Multimedia - University & Research Institute Category)
+  * International Invention, Innocation & Technology Exhibition (ITEX), Malaysia: Silver Medalist (ICT & Multimedia - University & Research Institute Category)
   * Malaysia Technology Expo (MTE): Invention & Innovation Category: Bronze Medalist
-  * A.I Hackathon for Good (2nd Runner Up)
+  * A.I Hackathon for Good: 2nd Runner Up
 * 2017
   * Research Innovation Commercialisation & Entrepreneurship Showcase (RICES): 1'st Runner Up 
 
