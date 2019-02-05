@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<script src="xepOnline.jqPlugin.js"></script>
+ <a href="#" onclick="return xepOnline.Formatter.Format('Usage',{render:'download'});">
+        download page
+    </a>
+
 <a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
