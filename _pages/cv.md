@@ -52,7 +52,7 @@ Work experience
 * Aug 2010 - Jan 2012: Research Assistant
   * Multimedia University, MY
   * Project: Content Management System (CMS) for Multimedia University Staffs to report their R&D progress as well as contributions. The system went live from 2012 and was decommissioned on 2017.
-  * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
+  * Supervisor: [Dr Chin Ji Jian](https://mmuexpert.mmu.edu.my/jjchin)
   
 Skills
 ======
