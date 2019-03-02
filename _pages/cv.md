@@ -24,7 +24,7 @@ console.log("Remember to change the scale to 72% before printing");
   
 function printcv()
 {
-  console.log("function print called");
+  console.log("function printcv called");
   
   document.getElementById("printThis").style.visibility = "hidden"; 
   document.getElementsByClassName("page__title")[0].style.visibility = "hidden";
