@@ -47,7 +47,7 @@ Work experience
 * Sept 2012 - Sept 2016: Application Management Service Delivery
   * Hewlett Packard Enterprise, MY
   * Responsibilities: Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
-  * Supervisor: Professor Hub
+  * Supervisor: [Chor Pheng Khee](https://my.linkedin.com/in/chor-pheng-khee-652685133)
 
 * Aug 2010 - Jan 2012: Research Assistant
   * Multimedia University, MY
