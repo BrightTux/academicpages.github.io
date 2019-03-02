@@ -22,6 +22,12 @@ redirect_from:
 console.log("Use printcv() to set certain elements to hidden");
 console.log("Remember to change the scale to 72% before printing");
   
+    
+  var scale = 'scale(.72)';
+  document.body.style.webkitTransform =  scale;    // Chrome, Opera, Safari
+  document.body.style.msTransform =   scale;       // IE 9
+  document.body.style.transform = scale;     // General
+  
 function printcv()
 {
   console.log("function printcv called");
@@ -30,11 +36,7 @@ function printcv()
   document.getElementsByClassName("page__title")[0].style.visibility = "hidden";
   document.getElementsByClassName("btn btn--inverse")[0].style.visibility = "hidden";
   console.log("remember to set the scale to 72%");
-  
-  var scale = 'scale(.72)';
-  document.body.style.webkitTransform =  scale;    // Chrome, Opera, Safari
-  document.body.style.msTransform =   scale;       // IE 9
-  document.body.style.transform = scale;     // General
+
 };
   
 </script>
