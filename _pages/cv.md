@@ -16,7 +16,6 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="http://www.brighttux.github.io/">http://www.brighttux.github.io</a> | <a href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a></span></p>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js" integrity="sha384-NaWTHo/8YCBYJ59830LTz/P4aQZK1sS0SneOgAvhsIl3zBu8r9RevNg5lHCHAuQ/" crossorigin="anonymous"></script>
 
 
 <script>
@@ -25,27 +24,12 @@ redirect_from:
   console.log("function print called");
   document.getElementById("printThis").visibility = hidden;
   document.getElementsByClassName("btn btn--inverse").visibility = hidden;
-  
-  var doc = new jsPDF('p', 'pt', 'a4');
-  var specialElementHandlers = {
-    '#editor': function (element, renderer) {
-      return true;
-    }          
-  };     
-  $('#btn_Pdfprint').click(function () {
-    doc.fromHTML($('#myTabContent').html(), 25, 25, {
-      'width': 790,
-      'elementHandlers': specialElementHandlers
-    });
-    doc.save('clarenceCV.pdf');
-    window.location.reload();
-  });
   }
 </script>
 
 
 
-<input id="visibilityPrint" type="button" value="Print CV" onclick="setVisibilityPrint();" />
+<input id="visibilityPrint" visibility="hidden" type="button" value="Print CV" onclick="setVisibilityPrint();" />
 
 
 
