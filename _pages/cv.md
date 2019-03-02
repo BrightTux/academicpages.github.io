@@ -56,7 +56,7 @@ Work experience
   
 Skills
 ======
-* OpenCV
+* OpenCV, Docker
 * C++, JavaScript, Python, SQL, PHP, VB, HTML, MATLAB, PowerShell, Unix Shell Scripting
 * Mainframe
   * COBOL, JCL, CA-7, z/OS
