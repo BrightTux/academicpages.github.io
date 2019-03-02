@@ -10,10 +10,42 @@ redirect_from:
 {% include base_path %}
 
 
-<a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
+<a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span id="printThis" style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="http://www.brighttux.github.io/">http://www.brighttux.github.io</a> | <a href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a></span></p>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js" integrity="sha384-NaWTHo/8YCBYJ59830LTz/P4aQZK1sS0SneOgAvhsIl3zBu8r9RevNg5lHCHAuQ/" crossorigin="anonymous">
+
+
+<script>
+  setVisibilityPrint()
+  {
+  document.getElementById("printThis").visibility = hidden;
+  document.getElementsByClassName("btn btn--inverse").visibility = hidden;
+  
+  var doc = new jsPDF('p', 'pt', 'a4');
+  var specialElementHandlers = {
+    '#editor': function (element, renderer) {
+      return true;
+    }          
+  };     
+  $('#btn_Pdfprint').click(function () {
+    doc.fromHTML($('#myTabContent').html(), 25, 25, {
+      'width': 790,
+      'elementHandlers': specialElementHandlers
+    });
+    doc.save('clarenceCV.pdf');
+    window.location.reload();
+  });
+  }
+</script>
+
+
+
+<input id="visibilityPrint" type="button" value="visibilityPrint" onclick="setVisibilityPrint();" />
+
 
 
 Education
