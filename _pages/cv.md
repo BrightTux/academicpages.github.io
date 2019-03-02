@@ -26,7 +26,7 @@ redirect_from:
   {
   console.log("function print called");
   document.getElementById("printThis").style.visibility = "hidden"; 
-  document.getElementsByClassName("btn btn--inverse").style.visibility = "hidden"; 
+  document.getElementsByClassName("btn btn--inverse")[0].style.visbility = "hidden";
   console.log("remember to set the scale to 72%");
   }
 </script>
