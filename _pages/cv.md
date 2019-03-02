@@ -22,6 +22,7 @@ redirect_from:
 <script>
   setVisibilityPrint()
   {
+  console.log("function print called");
   document.getElementById("printThis").visibility = hidden;
   document.getElementsByClassName("btn btn--inverse").visibility = hidden;
   
@@ -44,7 +45,7 @@ redirect_from:
 
 
 
-<input id="visibilityPrint" type="button" value="visibilityPrint" onclick="setVisibilityPrint();" />
+<input id="visibilityPrint" type="button" value="Print CV" onclick="setVisibilityPrint();" />
 
 
 
