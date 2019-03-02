@@ -19,16 +19,17 @@ redirect_from:
 
 
 <script>
-  console.log("Use printcv() to set certain elements to hidden");
-  console.log("Remember to change the scale to 72% before printing")
+console.log("Use printcv() to set certain elements to hidden");
+console.log("Remember to change the scale to 72% before printing");
   
-  function printcv()
-  {
+function printcv()
+{
   console.log("function print called");
   document.getElementById("printThis").style.visibility = "hidden"; 
   document.getElementsByClassName("btn btn--inverse")[0].style.visbility = "hidden";
   console.log("remember to set the scale to 72%");
-  }
+};
+  
 </script>
 
 
