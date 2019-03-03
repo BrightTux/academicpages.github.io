@@ -1,6 +1,6 @@
 While human beings are able to easily differentiate basic colors such as red, green, blue, and etc., this gets harder when the colors are mixed up. You have probably seen the following picture on the internet:
 
-![Males vs Female - colours](http://www.thedoghousediaries.com/dhdcomics/2010-03-01-12bf011.png)
+![Males vs Female - colours](https://steemitimages.com/p/hgjbkodzNPcRWemmiXzLcZH8ivvvFQUKeLTKBkbsPV1ZABfEKsXxsEmaZY4gYLpYEQdQLaC4bwnxwneA3Kpxv7PYbg?format=match&mode=fit&width=640)
 
 Inspired by the work of https://blog.xkcd.com/2010/05/03/color-survey-results/, the aim of this project is to create a metric system which allows users to empirically determine which color it is based on the 11 basic colors as proposed by Berlin and Kay.
 
