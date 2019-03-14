@@ -83,7 +83,7 @@ Skills
   * C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
 * Mainframe: 
   * COBOL, JCL, CA-7, z/OS
-
+* Incident & Crisis Management
 
 
 Publications
