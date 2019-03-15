@@ -82,9 +82,9 @@ Languages
 ======
 * Spoken:
   * Engish (Native), Chinese, Malay
- * Written:
+* Written:
   * English, Malay
-
+  
 Publications
 ======
 <a href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a>
