@@ -9,18 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-
 <a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span id="printThis" style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a></span></p>
 
-
-
-
 <script>
 console.log("Use printcv() to set certain elements to hidden");
-  
+
 function printcv()
 {
   console.log("function printcv called");
@@ -34,12 +30,8 @@ function printcv()
   
 </script>
 
-
-
-
 Education
 ======
-
 * M.S. in Information Technology, Multimedia University, 2019 (expected)
   * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
 
@@ -53,7 +45,8 @@ Work experience
 ======
 * Oct 2016 - Current: Research Scholar
   * Multimedia University, MY
-  * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities
+  * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities. 
+  * Responsibilities: Developed an object semantics extraction and retrieval engine using C++, OpenCV, and JavaScript. Attended Conferences, and exhibitions to showcase the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
   * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
   
 * Nov 2018 - Feb 2019: Freelance Project
@@ -83,8 +76,14 @@ Skills
   * C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
 * Mainframe: 
   * COBOL, JCL, CA-7, z/OS
-* Incident & Crisis Management
+* ITIL Foundation knowledge, Incident & Crisis Management
 
+Languages
+======
+* Spoken:
+  * Engish (Native), Chinese, Malay
+ * Written:
+  * English, Malay
 
 Publications
 ======
@@ -92,7 +91,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 
 Awards
 ======
