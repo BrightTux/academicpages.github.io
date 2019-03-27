@@ -12,9 +12,11 @@ I'm Clarence, currently doing my masters as a research scholar in the computer v
 
 Current projects:
 * Thesis writing (95%)
-* ~Retail Video Analytics (side project)~ [Done]
+* ~Retail Video Analytics (side project)~ [Done, 01/03/2019]
 * Self enhancements: 
-  * DevOps related: http://www.opsschool.org/
+  * DevOps related: 
+    * http://www.opsschool.org/
+    * Arrested DevOps Podcast
   * Learning hiragana (こんいちわ）
-
+  * No Dumb Questions Podcast
 
