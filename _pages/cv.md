@@ -24,6 +24,8 @@ function printcv()
   document.getElementById("printThis").style.visibility = "hidden"; 
   document.getElementsByClassName("page__title")[0].style.visibility = "hidden";
   document.getElementsByClassName("btn btn--inverse")[0].style.visibility = "hidden";
+  document.getElementByID("publicationslist")[0].style.visibility = "hidden";
+  
   console.log("Remember to change the scale to 72% before printing");
 
 };
@@ -46,14 +48,14 @@ Work experience
 * Oct 2016 - Current: Research Scholar
   * Multimedia University, MY
   * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities. 
-  * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, and exhibitions to showcase the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
+  * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
   * Tools used: C++, OpenCV, Python, HTML, CSS and JavaScript
   * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
   
 * Nov 2018 - Feb 2019: Freelance Project
   * Project: Retail Store Analytics using Video Feed 
-  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted data is then sent to AWS for storage and postprocessing by the client.
-  * Tools used: Raspberry Pi, OpenCV, Python, BASH and Docker. 
+  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted JSON data is then sent to AWS for storage and postprocessing by the client.
+  * Tools used: Raspberry Pi, OpenCV, Python, BASH, AWS and Docker. 
 
 * Summer 2018 (Jun 2018 - Sept 2018): Research Intern
   * National Chung Cheng University, TW
@@ -92,7 +94,7 @@ Languages
   
 Publications
 ======
-<a href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a>
+<a id="publicationslist" href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -105,21 +107,3 @@ Awards
   * A.I Hackathon for Good: 2nd Runner Up
 * 2017
   * Research Innovation Commercialisation & Entrepreneurship Showcase (RICES): 1'st Runner Up 
-
-<!---
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
