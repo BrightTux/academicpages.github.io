@@ -24,7 +24,7 @@ function printcv()
   document.getElementById("printThis").style.visibility = "hidden"; 
   document.getElementsByClassName("page__title")[0].style.visibility = "hidden";
   document.getElementsByClassName("btn btn--inverse")[0].style.visibility = "hidden";
-  document.getElementByID("publicationslist")[0].style.visibility = "hidden";
+  document.getElementById("publicationslist").style.visibility = "hidden";
   
   console.log("Remember to change the scale to 72% before printing");
 
