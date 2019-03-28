@@ -25,6 +25,21 @@ function printcv()
   document.getElementsByClassName("page__title")[0].style.visibility = "hidden";
   document.getElementsByClassName("btn btn--inverse")[0].style.visibility = "hidden";
   document.getElementById("publicationslist").style.visibility = "hidden";
+  document.getElementsByClassName("author__avatar")[0].style.visibility ="hidden"
+  document.getElementsByClassName("author__name")[0].style.visibility ="hidden"
+  document.getElementsByClassName("author__bio")[0].style.visibility ="hidden"
+  
+  document.getElementById("printThis").style.display= "none"
+  document.getElementsByClassName("page__title")[0].style.display= "none"
+  document.getElementsByClassName("btn btn--inverse")[0].style.display= "none"
+  document.getElementById("publicationslist").style.display= "none"
+  document.getElementsByClassName("author__avatar")[0].style.display= "none"
+  document.getElementsByClassName("author__name")[0].style.display= "none"
+  document.getElementsByClassName("author__bio")[0].style.display= "none"
+  document.getElementsByClassName("page__footer")[0].style.display= "none"
+  
+  
+  
   
   console.log("Remember to change the scale to 72% before printing");
 
