@@ -84,7 +84,7 @@ Skills
 
 Languages
 ======
-* Spoken: Engish (Native), Chinese, Malay
+* Spoken: English (Native), Chinese, Malay
 * Written: English, Malay
   
 Publications
