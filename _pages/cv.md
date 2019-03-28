@@ -77,20 +77,15 @@ Work experience
   
 Skills
 ======
-* Frameworks: 
-  * OpenCV, Docker
-* Languages: 
-  * C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
-* Mainframe: 
-  * COBOL, JCL, CA-7, z/OS
+* Frameworks: OpenCV, Docker
+* Languages: C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
+* Mainframe: COBOL, JCL, CA-7, z/OS
 * ITIL Foundation knowledge, Incident & Crisis Management
 
 Languages
 ======
-* Spoken:
-  * Engish (Native), Chinese, Malay
-* Written:
-  * English, Malay
+* Spoken: Engish (Native), Chinese, Malay
+* Written: English, Malay
   
 Publications
 ======
