@@ -90,7 +90,7 @@ Work experience
   
 Skills
 ======
-* Frameworks: OpenCV, Docker
+* Framework/Tools: OpenCV, Docker, VMs, AWS (Basic EC2, S3), Git
 * Languages: C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
 * Mainframe: COBOL, JCL, CA-7, z/OS
 * ITIL Foundation knowledge, Incident & Crisis Management
