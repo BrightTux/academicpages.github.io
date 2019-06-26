@@ -58,7 +58,17 @@ Education
 
 Work experience
 ======
-* Oct 2016 - Current: Research Scholar
+* May 2019 - Current: Maintenance & Testing Technician (Machine Learning)
+  * Almex System Technology Asia (Almex-STA), MY 
+  * Working remotely with a distributed team in HQ (Japan)
+  * Projects: 
+      * Japanese Charaters Text OCR
+        * Responsibilities: <br>
+        Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation.
+        * Tools used: Python, OpenCV, Bash
+
+
+* Oct 2016 - April 2019: Research Scholar
   * Multimedia University, MY
   * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities. 
   * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
