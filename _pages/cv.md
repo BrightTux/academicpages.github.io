@@ -62,7 +62,7 @@ Work experience
   * Almex System Technology Asia (Almex-STA), MY 
   * Working remotely with a distributed team in HQ (Japan)
   * Projects: 
-      * Japanese Charaters Text OCR
+      * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR
         * Responsibilities: <br>
         Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation.
         * Tools used: Python, OpenCV, Bash
