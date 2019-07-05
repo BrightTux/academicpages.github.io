@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clarence"
 title_separator          : "-"
 name                     : &name "Clarence Cheong"
-description              : &description "Maintenance & Testing Technician (Machine Learning), Almex-STA, MY"
+description              : &description "Maintenance & Testing Technician (Machine Learning) at Almex-STA, MY"
 url                      : https://brighttux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brighttux/brighttux.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Clarence Cheong"
   avatar           : "clarence.jpg"
-  bio              : "Research Scholar (Computer Vision), Multimedia University"
+  bio              : "Maintenance & Testing Technician (Machine Learning) at Almex-STA, MY"
   location         : "Cyberjaya, MY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/clarence-cheong/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
