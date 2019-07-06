@@ -1,7 +1,7 @@
 ---
 title: "Efficient Semantic-Based Vehicle Retrieval In Long-Term Car Park Videos"
 collection: publications
-permalink: /publication/2019-07-08-efficient-long-term
+permalink: /publication/2019-07-05-efficient-long-term
 excerpt: 'This paper proposes an efficient and comprehensive framework for semantic based vehicle retrieval from long-term car park videos. Colour and motion semantics are respectively retrieved using intuitive colour term and sketch-based trajectory querying.'
 date: 2019-07-08
 venue: '1st International Workshop on Big Surveillance Data Analysis and Processing, Shanghai'
