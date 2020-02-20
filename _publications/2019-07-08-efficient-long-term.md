@@ -13,4 +13,4 @@ This paper proposes an efficient and comprehensive framework for semantic based 
 [Download paper here](https://github.com/BrightTux/brighttux.github.io/blob/master/files/semantic_icmew19.pdf)
 
 Recommended citation: <br>
-Cheong, C. W., Lim, R. W. S., See, J., Wong, L. K., & Tan, I. K. (2019, July). Efficient Semantic-Based Vehicle Retrieval In Long-Term Car Park Videos. In 2019 IEEE International Conference on Multimedia and Expo (To Be Published)
+Cheong, C. W., Lim, R. W. S., See, J., Wong, L. K., & Tan, I. K. (2019, July). Efficient Semantic-Based Vehicle Retrieval In Long-Term Car Park Videos. In 2019 IEEE International Conference on Multimedia and Expo (ICMEW) (pp. 138-143). IEEE.
