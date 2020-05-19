@@ -40,9 +40,9 @@ And since my wife was complaining about the blue switches on my other TenKeyLess
 tactile switches. Hence, i went with Kailh Brown Box Switches. 
 
 I went with the 75 keys layout as i thought this would be a good opportunity to test out the following configurations:
-1. Planck (40% layout)
-2. Preonic (50% layout) 
-3. Split layout 
+1. [Planck](https://drop.com/buy/planck-mechanical-keyboard) 40% layout
+2. [Preonic](https://drop.com/buy/preonic-mechanical-keyboard) 50% layout
+3. [Split layout](https://yushakobo.jp/shop/consign_chidori/) 
 4. And ultimately ortholinear layout to improve my touch typing skills since i would be typing a lot as a programmer.
 
 
