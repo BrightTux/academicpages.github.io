@@ -13,6 +13,7 @@ redirect_from:
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a></span></p>
+<p style="line-height: 1.5;" align="center">Python, Bash, JavaScript, C++, COBOL, JCL | Tensorflow, OpenCV, Docker, Ansible, Git</p>
 
 <script>
 console.log("Use printcv() to set certain elements to hidden");
@@ -45,34 +46,29 @@ function printcv()
   
 </script>
 
-Education
-======
-* M.S. in Information Technology, Multimedia University, 2019 (expected)
-  * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
-
-* B.Eng. in Electronics Majoring in Multimedia, Multimedia University, 2012
-  * Thesis Topic: Speaker Voice Recognition
-
-* Diploma in Technology, Mechatronics, Tunku Abdul Rahman College, 2008
-
-
 Work experience
 ======
 * May 2019 - Current: Maintenance & Testing Technician (Machine Learning)
   * Almex System Technology Asia (Almex-STA), MY 
   * Working remotely with a distributed team in HQ (Japan)
   * Projects: 
+      * Flir AX8 Thermal Camera API
+        * Cowritten an API for thermal imaging purposes.
+        * Tools used: Python, Docker
+      * Image Labeling Tool
+        * Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via Openvino). Automatic installation on multiple workstations via Ansible.
+        * Tools used: Python, Ansible, PyQt5, MongoDB
+      * FCOS-Styled Datasets Generator
+        * Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
+        * Tools used: Python, TensorFlow
       * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR
-        * Responsibilities: <br>
-          Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
+        * Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
         * Tools used: Python, OpenCV, Bash
       * SynthText-JPN (Japanese Text-on-Image Synthesis)
-        * Responsibilities: <br>
-          Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
+        * Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
         * Tools used: Python, OpenCV, Scikit, Tensorflow
       * Text Saliency Mapper
-        * Responsibilities: <br>
-          Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
+        * Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
         * Tools used: Python, Keras
 
 
@@ -86,7 +82,7 @@ Work experience
   
 * Nov 2018 - Feb 2019: Freelance Project
   * Project: Retail Store Analytics using Video Feed 
-  * Responsibilities: Develop a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted JSON data is then sent to AWS for storage and postprocessing by the client.
+  * Developed a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted JSON data is then sent to AWS for storage and postprocessing by the client.
   * Tools used: Raspberry Pi, OpenCV, Python, BASH, AWS and Docker. 
 
 * Summer 2018 (Jun 2018 - Sept 2018): Research Intern
@@ -97,7 +93,7 @@ Work experience
   
 * Sept 2012 - Sept 2016: Application Management Service Delivery
   * Hewlett Packard Enterprise, MY
-  * Responsibilities: Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
+  * Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
   * Tools used: (Mainframe Z/os) COBOL, JCL, CA-7, Unix, BASH, Visual Basic and SQL.
   * Supervisor: [Chor Pheng Khee](https://my.linkedin.com/in/chor-pheng-khee-652685133)
 
@@ -107,6 +103,18 @@ Work experience
   * Tools used: PHP, SQL, HTML, CSS and WAMP server.
   * Supervisor: [Dr Chin Ji Jian](https://mmuexpert.mmu.edu.my/jjchin)
   
+
+Education
+======
+* M.S. in Information Technology, Multimedia University, 2020 (expected)
+  * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
+
+* B.Eng. in Electronics Majoring in Multimedia, Multimedia University, 2012
+  * Thesis Topic: Speaker Voice Recognition
+
+* Diploma in Technology, Mechatronics, Tunku Abdul Rahman College, 2008
+
+
 Skills
 ======
 * Framework/Tools: OpenCV, Docker, VMs, AWS (Basic EC2, S3), Git
@@ -119,15 +127,13 @@ Languages
 * Spoken: English (Native), Chinese, Malay
 * Written: English, Malay
   
-Publications
+Publications and Awards
 ======
 <a id="publicationslist" href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards
-======
 * 2018
   * International Invention, Innovation & Technology Exhibition (ITEX), Malaysia: Silver Medalist (ICT & Multimedia - University & Research Institute Category)
   * Malaysia Technology Expo (MTE): Invention & Innovation Category: Bronze Medalist
