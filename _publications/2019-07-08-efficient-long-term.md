@@ -11,6 +11,7 @@ citation: 'Cheong, C. W., Lim, R. W. S., See, J., Wong, L. K., & Tan, I. K. (201
 This paper proposes an efficient and comprehensive framework for semantic based vehicle retrieval from long-term car park videos. Colour and motion semantics are respectively retrieved using intuitive colour term and sketch-based trajectory querying.
 
 [Download paper here](https://github.com/BrightTux/brighttux.github.io/blob/master/files/semantic_icmew19.pdf)
+[Video presentation](https://www.youtube.com/watch?v=LwJ988HSAaE)
 
 Recommended citation: <br>
 Cheong, C. W., Lim, R. W. S., See, J., Wong, L. K., & Tan, I. K. (2019, July). Efficient Semantic-Based Vehicle Retrieval in Long-term Car Park Videos. In 2019 IEEE International Conference on Multimedia & Expo Workshops (ICMEW) (pp. 138-143). IEEE.
