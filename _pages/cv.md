@@ -62,7 +62,7 @@ Work experience
 
 * Oct 2016 - April 2019: Research Scholar
   * Multimedia University, MY
-  * Project: SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities. 
+  * Project: [SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities.](https://www.youtube.com/watch?v=x_UJIOEBusw) 
   * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
   * Tools used: C++, OpenCV, Python, HTML, CSS and JavaScript
   * Supervisor: [Professor John See](http://pesona.mmu.edu.my/~johnsee/)
