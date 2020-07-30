@@ -11,8 +11,8 @@ redirect_from:
 
 <a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span id="printThis" style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a></span><br>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span> <br>
+clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a></span><br>
 Python, Bash, JavaScript, C++, COBOL, JCL | Tensorflow, OpenCV, Docker, Ansible, Git</p>
 
 <script>
@@ -51,27 +51,14 @@ Work experience
 * May 2019 - Current: Maintenance & Testing Technician (Machine Learning)
   * Almex System Technology Asia (Almex-STA), MY 
   * Working remotely with a distributed team in HQ (Japan)
+  * Tools used: Python, TensorFlow, Bash, OpenCV, Docker, Ansible, MongoDB, PyQt
   * Projects: 
-      * Flir AX8 Thermal Camera API
-        * Cowritten an API for thermal imaging purposes.
-        * Tools used: Python, Docker
-      * Image Labeling Tool
-        * Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via Openvino). Automatic installation on multiple workstations via Ansible.
-        * Tools used: Python, Ansible, PyQt5, MongoDB
-      * FCOS-Styled Datasets Generator
-        * Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
-        * Tools used: Python, TensorFlow
-      * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR
-        * Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
-        * Tools used: Python, OpenCV, Bash
-      * SynthText-JPN (Japanese Text-on-Image Synthesis)
-        * Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
-        * Tools used: Python, OpenCV, Scikit, Tensorflow
-      * Text Saliency Mapper
-        * Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
-        * Tools used: Python, Keras
-
-
+      * Flir AX8 Thermal Camera API: Cowritten an API for thermal imaging purposes.
+      * Image Labeling Tool: Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via Openvino). Automatic installation on multiple workstations via Ansible.
+      * FCOS-Styled Datasets Generator: Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
+      * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR: Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
+      * SynthText-JPN (Japanese Text-on-Image Synthesis): Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
+      * Text Saliency Mapper: Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
 
 * Oct 2016 - April 2019: Research Scholar
   * Multimedia University, MY
