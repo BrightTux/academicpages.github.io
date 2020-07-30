@@ -13,7 +13,7 @@ redirect_from:
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span> <br>
 clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a></span><br>
-Python, Bash, JavaScript, C++, COBOL, JCL | Tensorflow, OpenCV, Docker, Ansible, Git</p>
+Python, Bash, JavaScript, C++, COBOL, JCL | Git, OpenCV, Docker, Tensorflow, Ansible</p>
 
 <script>
 console.log("Use printcv() to set certain elements to hidden");
