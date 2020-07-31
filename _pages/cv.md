@@ -60,10 +60,9 @@ Work experience
       * SynthText-JPN (Japanese Text-on-Image Synthesis): Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
       * Text Saliency Mapper: Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
 
-* Oct 2016 - April 2019: Research Scholar
-  * Multimedia University, MY
+* Oct 2016 - April 2019: Research Scholar, Multimedia University, MY
   * Project: [SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities.](https://www.youtube.com/watch?v=x_UJIOEBusw) 
-  * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Currently writting a journal as well another conference paper (WIP). Obtained copyright for the retrieval engine.
+  * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Obtained copyright for the retrieval engine.
   * Tools used: C++, OpenCV, Python, HTML, CSS and JavaScript
   * Supervisor: [Professor John See](https://mmuexpert.mmu.edu.my/johnsee)
   
@@ -72,20 +71,17 @@ Work experience
   * Developed a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted JSON data is then sent to AWS for storage and postprocessing by the client.
   * Tools used: Raspberry Pi, OpenCV, Python, BASH, AWS and Docker. 
 
-* Summer 2018 (Jun 2018 - Sept 2018): Research Intern
-  * National Chung Cheng University, TW
+* Summer 2018 (Jun 2018 - Sept 2018): Research Intern, National Chung Cheng University, TW
   * Project: Vehicle Trajectory Classification using Machine Learning tools. Learned how to develop a simple network using Convolutional Neural Networks.
   * Tools used: Python, OpenCV, Keras and Tensorflow.
   * Supervisor: [Professor Wen-Nung, Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/)
   
-* Sept 2012 - Sept 2016: Application Management Service Delivery
-  * Hewlett Packard Enterprise, MY
+* Sept 2012 - Sept 2016: Application Management Service Delivery, Hewlett Packard Enterprise, MY
   * Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
   * Tools used: (Mainframe Z/os) COBOL, JCL, CA-7, Unix, BASH, Visual Basic and SQL.
   * Supervisor: [Chor Pheng Khee](https://my.linkedin.com/in/chor-pheng-khee-652685133)
 
-* Aug 2010 - Jan 2012: Research Assistant
-  * Multimedia University, MY
+* Aug 2010 - Jan 2012: Research Assistant, Multimedia University, MY
   * Project: Content Management System (CMS) for Multimedia University Staffs to report their R&D progress as well as contributions. The system went live from 2012 and was decommissioned on 2017.
   * Tools used: PHP, SQL, HTML, CSS and WAMP server.
   * Supervisor: [Dr Chin Ji Jian](https://mmuexpert.mmu.edu.my/jjchin)
