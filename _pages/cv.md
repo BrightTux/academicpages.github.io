@@ -13,7 +13,15 @@ redirect_from:
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span> <br>
 clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a> <br>
-Python, Bash, JavaScript, C++, COBOL, JCL | Git, OpenCV, Docker, Tensorflow, Ansible</p>
+
+[<img align="center" alt="Python" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/python-logo-generic.svg"/>]()
+[<img align="center" alt="Bash" width="22px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/24x24.png"/>]()
+[<img align="center" alt="OpenCV" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/487px-OpenCV_Logo_with_text_svg_version.svg.png"/>]()
+[<img align="center" alt="Tensorflow" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Tensorflow_logo.svg"/>]()
+[<img align="center" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Vimlogo.svg" />]()
+[<img align="center" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/512px-Git-logo.svg.png"/>]() 
+
+</p>
 
 <script>
 console.log("Use printcv() to set certain elements to hidden");
