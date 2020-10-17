@@ -13,7 +13,7 @@ tags:
 Internet Security breaches has been a common topic over the past decades, it's
 no longer a foreign topic to many. Maybe you have gotten your account hacked
 before, or maybe one of your passwords has been compromised. Hopefully, you
-practiced a rather secure method of *NOT* reusing your password for all your
+practiced a rather secure method of **NOT** reusing your password for all your
 other applications.
 
 Personally, i think i practiced a rather safe method of using different
@@ -136,7 +136,7 @@ as you have not generated your own private and public keys. So here's how you
 can do it.
 
 Generating Public and Private keys using gpg:
-```
+```bash
 gpg --full-generate-key
 
 gpg (GnuPG) 2.2.23; Copyright (C) 2020 Free Software Foundation, Inc.
@@ -217,10 +217,11 @@ public and secret key created and signed.
 
 Congratulations, you have now finished the first step of generating your keys.
 Now you can finally use pass to store your keys! Based on the message above,
-your private key ID is *DBACA805DFF5C88B*, you will be uing it to initialize
+your private key ID is *DBACA805DFF5C88B*, you will be using it to initialize
 pass. Don't worry, this is not my real private key ID, since this was
 generated in a virtual machine.
 Here's a summary from `tldr` regarding `pass`:
+
 ```
   pass
 
