@@ -1,7 +1,7 @@
 ---
 title: 'Reverse SSH'
-date: 2020-11-01
-permalink: /posts/2020/11/reverse-ssh/
+date: 2020-10-29
+permalink: /posts/2020/10/reverse-ssh/
 tags:
   - reverse ssh
   - systemctl
