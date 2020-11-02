@@ -12,7 +12,7 @@ tags:
 ---
 
 Corona virus is back again. And, yes... back to working remotely.
-During the previos WFH(work from home) session, i didn't have much problem as i
+During the previous WFH(work from home) session, i didn't have much problem as i
 was building a `pyqt` application coupled with some `mongodb` functions. I
 didn't really need the remote access to the office PC.
 
@@ -22,7 +22,9 @@ was no other way, I needed to figure out the best way to access my office PC.
 
 In one of my previous post, i shared a way to 'reverse ssh' via tmate.
 Well, that method still kindda works... but, tmate didn't allow X forwarding
-which was what i was hopping for. Finally, i took some time to really understand
+which was what i was hopping for.
+And i've been getting quite a bit of dropped connection, which was midely
+frustrating. I finally took some time to study and really understand
 how reverse ssh works, and set it up to work.
 
 Here's a diagram to illustrate the process.
@@ -227,3 +229,27 @@ Caption: Person wearing face mask.
                        -++++++++++++++++ooooooossss:
 
 ```
+
+Updates!
+--------
+
+Today, i took some time to learn how to run jupyter-lab on my office pc and port
+forward it to my local machine. This is probably just a short update to the
+previous post which uses the similar method of reverse tunneling.
+
+First, let's run jupyter-labs on the remote machine.
+```
+$ jupyter lab --no-browser --port 5678
+```
+
+Next, we need to forward the port `5678` which we assigned to jupyter.
+```
+ssh -R 12345:localhost:22 -R 5678:localhost:5678 clarence@my.external.ip
+```
+
+Finally, We can launch a web browser on our local machine with
+`localhost:5678` as the address, and we'll see the jupyter notebook screen
+asking for our credentials. It was simpler than i thought it would be.
+
+The credentials would be shown on the terminal where you launched the jupyter
+lab instance.
