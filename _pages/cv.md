@@ -52,7 +52,7 @@ function printcv()
 
   
   console.log("Remember to change the scale to 72% before printing - use Chrome/Linux");
-  document.getElementsByClassName('archive')[0].setAttribute('id', 'clarence_print')
+  document.getElementsByClassName('archive')[0].setAttribute('id', 'cv')
 
   function PrintElem(elem)
   {
@@ -72,8 +72,6 @@ function printcv()
 
     return true; 
   }
-
-  PrintElem('clarence_print')
 }
   
 </script>
