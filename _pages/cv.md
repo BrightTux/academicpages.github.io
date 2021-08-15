@@ -74,6 +74,7 @@ function printcv()
   }
 
   PrintElem('clarence_print')
+}
   
 </script>
 
