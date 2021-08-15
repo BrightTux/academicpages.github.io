@@ -53,7 +53,7 @@ function printcv()
   
   console.log("Remember to change the scale to 72% before printing - use Chrome/Linux");
 
-  var printContents = document.getElementById("archive").innerHTML;
+  var printContents = document.getElementByClassName("archive").innerHTML;
      var originalContents = document.body.innerHTML;
 
      document.body.innerHTML = printContents;
