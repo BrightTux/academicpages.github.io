@@ -100,7 +100,7 @@ Work experience
 
 Education
 ======
-* M.S. in Information Technology, Multimedia University, 2020 (expected)
+* M.S. in Information Technology, Multimedia University, 2021 (expected)
   * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
 
 * B.Eng. in Electronics Majoring in Multimedia, Multimedia University, 2012
