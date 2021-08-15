@@ -52,17 +52,28 @@ function printcv()
 
   
   console.log("Remember to change the scale to 72% before printing - use Chrome/Linux");
+  document.getElementsByClassName('archive')[0].setAttribute('id', 'clarence_print')
 
-  var printContents = document.getElementByClassName("archive").innerHTML;
-     var originalContents = document.body.innerHTML;
+  function PrintElem(elem)
+  {
+    var mywindow = window.open('', 'PRINT', 'height=400,width=600');
 
-     document.body.innerHTML = printContents;
+    mywindow.document.write('<html><head><title>' + document.title  + '</title>');
+    mywindow.document.write('</head><body >');
+    mywindow.document.write('<h1>' + document.title  + '</h1>');
+    mywindow.document.write(document.getElementById(elem).innerHTML);
+    mywindow.document.write('</body></html>');
 
-     window.print();
+    mywindow.document.close(); // necessary for IE >= 10
+    mywindow.focus(); // necessary for IE >= 10*/
 
-     document.body.innerHTML = originalContents;
+    mywindow.print();
+    mywindow.close();
 
-};
+    return true; 
+  }
+
+  PrintElem('clarence_print')
   
 </script>
 
