@@ -63,6 +63,7 @@ Work experience
   * Working remotely with a distributed team in HQ (Japan)
   * Tools used: Python, TensorFlow, Bash, OpenCV, Docker, Ansible, MongoDB, PyQt
   * Projects: 
+      * Person Re-Identification: Research, proposal and POC Development.
       * Flir AX8 Thermal Camera API: Cowritten an API for thermal imaging purposes.
       * Image Labeling Tool: Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via Openvino). Automatic installation on multiple workstations via Ansible.
       * FCOS-Styled Datasets Generator: Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
