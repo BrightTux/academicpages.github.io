@@ -22,7 +22,7 @@ clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https:/
 <img align="center" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Vimlogo.svg" />
 <img align="center" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/512px-Git-logo.svg.png"/>
 <img align="center" alt="Ansible" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"/> 
-<img align="center" alt="Docker" width="22px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>
+<img align="center" alt="Docker" width="22px" src="https://www.docker.com/wp-content/themes/divi-child/assets/images/product/product-body-background.svg"/>
 
 </p>
 
@@ -64,11 +64,16 @@ Work experience
 * May 2019 - Current: Maintenance & Testing Technician (Machine Learning)
   * Almex System Technology Asia (Almex-STA), MY 
   * Working remotely with a distributed team in HQ (Japan)
-  * Tools used: Python, TensorFlow, Bash, OpenCV, Docker, Ansible, MongoDB, PyQt
+  * Tools used: Python, Docker, OpenCV, OpenVINO, Bash, Flask, MongoDB, Ansible, TensorFlow, PyQt
   * Projects: 
+      * Invoice OCR: Research, proposal and POC Development.
+        * Classification of documents using image features, Identification and extraction of desired texts
       * Person Re-Identification: Research, proposal and POC Development.
+        * Labelling tools for internal testing, Performance Measurement, POC Demo at Hotel Fairs
+        * Utilized pre-trained models from OpenVINO
       * Flir AX8 Thermal Camera API: Cowritten an API for thermal imaging purposes.
-      * Image Labeling Tool: Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via Openvino). Automatic installation on multiple workstations via Ansible.
+        * Face detection, Thermal correction using BlackBody device
+      * Image Labeling Tool: Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via OpenVINO). Automatic installation on multiple workstations via Ansible.
       * FCOS-Styled Datasets Generator: Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
       * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR: Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
       * SynthText-JPN (Japanese Text-on-Image Synthesis): Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
@@ -78,7 +83,7 @@ Work experience
   * Project: [SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities.](https://www.youtube.com/watch?v=x_UJIOEBusw) 
   * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Obtained copyright for the retrieval engine.
   * Tools used: C++, OpenCV, Python, HTML, CSS and JavaScript
-  * Supervisor: [Professor John See](https://mmuexpert.mmu.edu.my/johnsee)
+  * Supervisor: [Professor John See](https://researchportal.hw.ac.uk/en/persons/john-see)
   
 * Nov 2018 - Feb 2019: Freelance Project
   * Project: Retail Store Analytics using Video Feed 
@@ -98,7 +103,7 @@ Work experience
 * Aug 2010 - Jan 2012: Research Assistant, Multimedia University, MY
   * Project: Content Management System (CMS) for Multimedia University Staffs to report their R&D progress as well as contributions. The system went live from 2012 and was decommissioned on 2017.
   * Tools used: PHP, SQL, HTML, CSS and WAMP server.
-  * Supervisor: [Dr Chin Ji Jian](https://mmuexpert.mmu.edu.my/jjchin)
+  * Supervisor: [Dr Chin Ji Jian](https://www.plymouth.ac.uk/staff/ji-jian-chin)
   
 
 Education
@@ -114,7 +119,7 @@ Education
 
 Skills
 ======
-* Framework/Tools: OpenCV, Docker, VMs, AWS (Basic EC2, S3), Git
+* Framework/Tools: OpenCV, Docker, OpenVINO, Flask, VMs, AWS (Basic EC2, S3), Git
 * Languages: C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
 * Mainframe: COBOL, JCL, CA-7, z/OS
 * ITIL Foundation knowledge, Incident & Crisis Management
