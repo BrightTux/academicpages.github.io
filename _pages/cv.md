@@ -22,7 +22,7 @@ clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https:/
 <img align="center" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Vimlogo.svg" />
 <img align="center" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/512px-Git-logo.svg.png"/>
 <img align="center" alt="Ansible" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"/> 
-<img align="center" alt="Docker" width="22px" src="https://www.docker.com/wp-content/themes/divi-child/assets/images/product/product-body-background.svg"/>
+<img align="center" alt="Docker" width="22px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
 
 </p>
 
